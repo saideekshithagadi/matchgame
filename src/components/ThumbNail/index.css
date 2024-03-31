@@ -1,0 +1,9 @@
+.thumb_con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.thumbimg {
+  height: 600px;
+  margin: 30px;
+}
